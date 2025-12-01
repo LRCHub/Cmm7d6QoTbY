@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "768 (dead wrong remix)",
+  "base_artist": "K-P",
+  "createdAt": "2025-12-01T15:52:56.007335Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "768 - dead wrong remix",
+      "artist": "K-P feat. dead wrong",
+      "has_synced": true,
+      "path": "select/01_768_-_dead_wrong_remix_K-P_feat._dead_wrong.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "768 - dead wrong remix",
+      "artist": "K-P/dead wrong",
+      "has_synced": true,
+      "path": "select/02_768_-_dead_wrong_remix_K-P_dead_wrong.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "768 - dead wrong remix",
+      "artist": "K-P",
+      "has_synced": true,
+      "path": "select/03_768_-_dead_wrong_remix_K-P.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "768 (dead wrong remix) (feat. dead wrong)",
+      "artist": "K-P",
+      "has_synced": true,
+      "path": "select/04_768_(dead_wrong_remix)_(feat._dead_wrong)_K-P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "768",
+      "artist": "kp",
+      "has_synced": true,
+      "path": "select/05_768_kp.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "768 (dead wrong remix)",
+      "artist": "K-P",
+      "has_synced": false,
+      "path": "select/06_768_(dead_wrong_remix)_K-P.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "768.1942 Flows",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/07_768.1942_Flows_Meek_Mill.lrc"
+    }
+  ]
+}
